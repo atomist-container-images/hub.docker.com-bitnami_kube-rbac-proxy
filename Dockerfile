@@ -10,6 +10,3 @@ FROM bitnami/kube-rbac-proxy:_
 
 # Tags: 0.12.0-scratch-r1
 FROM bitnami/kube-rbac-proxy:0.12.0-scratch-r1
-
-# Tags: 0.12.0-scratch-r0
-FROM bitnami/kube-rbac-proxy:0.12.0-scratch-r0
